@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.platekdawid</groupId>
-	<artifactId>employeemanager</artifactId>
+	<artifactId>studentmanager</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>employeemanager</name>
-	<description>Employee Manager App</description>
+	<name>studentmanager</name>
+	<description>Student Manager</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
